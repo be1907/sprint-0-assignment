@@ -1,0 +1,19 @@
+* {
+    margin: 2px;
+    padding: 5px;
+  }
+h1 {
+  font-size: 55px;
+}
+p, .font {
+  font-size: 19px;
+}
+#cur_role  {
+  width: 150px;
+}
+#fav_feature {
+  width: 140px;
+}
+.size {
+  line-height: 35px;
+}
